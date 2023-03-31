@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Bread"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Milk"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Eggs"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Butter"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Oil"
+    }
+  ]
+}
